@@ -1,0 +1,2 @@
+Info (10281): Verilog HDL Declaration information at regFile.v(3): object "rs1" differs only in case from object "Rs1" in the same scope File: C:/Users/matth/Documents/CompArc/regFile.v Line: 3
+Info (10281): Verilog HDL Declaration information at regFile.v(3): object "rs2" differs only in case from object "Rs2" in the same scope File: C:/Users/matth/Documents/CompArc/regFile.v Line: 3

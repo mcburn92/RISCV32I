@@ -1,0 +1,61 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/matth/Documents/CompArc/RSCV-32I/IMEM/simulation/modelsim
+vImem
+Z1 !s110 1698957610
+!i10b 1
+!s100 >?5oFlIiCYfAi0>>BI3Ee2
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I]i:RBkj986=n[V1SN]W;E1
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1697143064
+8C:/Users/matth/Documents/CompArc/RSCV-32I/IMEM/Imem.v
+FC:/Users/matth/Documents/CompArc/RSCV-32I/IMEM/Imem.v
+!i122 0
+L0 1 31
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1698957609.000000
+!s107 C:/Users/matth/Documents/CompArc/RSCV-32I/IMEM/Imem.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/matth/Documents/CompArc/RSCV-32I/IMEM|C:/Users/matth/Documents/CompArc/RSCV-32I/IMEM/Imem.v|
+!i113 1
+Z5 o-vlog01compat -work work
+Z6 !s92 -vlog01compat -work work +incdir+C:/Users/matth/Documents/CompArc/RSCV-32I/IMEM
+Z7 tCvgOpt 0
+n@imem
+vImem_tb
+R1
+!i10b 1
+!s100 M_^T1[dIAiSjIlVoHJz;f3
+R2
+I7P15;gK>iA4h`^_UU=Y5O0
+R3
+R0
+w1698953961
+8C:/Users/matth/Documents/CompArc/RSCV-32I/IMEM/Imem_tb.v
+FC:/Users/matth/Documents/CompArc/RSCV-32I/IMEM/Imem_tb.v
+!i122 1
+L0 1 25
+R4
+r1
+!s85 0
+31
+!s108 1698957610.000000
+!s107 C:/Users/matth/Documents/CompArc/RSCV-32I/IMEM/Imem_tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/matth/Documents/CompArc/RSCV-32I/IMEM|C:/Users/matth/Documents/CompArc/RSCV-32I/IMEM/Imem_tb.v|
+!i113 1
+R5
+R6
+R7
+n@imem_tb

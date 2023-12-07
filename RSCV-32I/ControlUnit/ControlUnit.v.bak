@@ -1,0 +1,16 @@
+module ControlUnit(	Inst, clk, BrEq, BrLT,
+							ALUOp, wEn, immSel, ASel, BSel, PCSel, BrUn, wBSel, memRW);
+input [31:0] Inst;
+input clk;
+output [3:0] ALUOp;
+output wEn, immSel, ASel, BSel, PCSel, BrUn, wBSel, memRW;
+
+always @(posedge clk) begin
+	if (Inst[6:0]==7'b0110011)
+		assign ALUOp = {Inst[30],Inst[14:12]};
+	
+
+end
+
+
+endmodule

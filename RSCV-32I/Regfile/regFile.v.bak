@@ -1,0 +1,7 @@
+module regFile (input [0:4] rd, rs1, rs2, 
+					input rst, clk, wEn,
+					input dataIn, output [0:31] reg_rs1, reg_Rs2 );
+
+
+
+endmodule
